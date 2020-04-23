@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
 i = 0 
-dwaf_names = []
+dwarf_names = []
 while dwarf_names < array.length
 array.each do |name|
   puts #{name}
