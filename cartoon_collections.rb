@@ -5,7 +5,7 @@ array.each_with_index do |dwarf, index|
 end 
 
 def summon_captain_planet(array)
-  array.collect 
+  array.collect {|i| 
 end
 
 def long_planeteer_calls# code an argument here
