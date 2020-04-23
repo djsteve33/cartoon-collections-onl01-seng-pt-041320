@@ -12,7 +12,7 @@ def long_planeteer_calls(calls)
   calls.any? { |i| i.length > 4}
 end
 
-def find_the_cheese(strings)
+def find_the_cheese()
  if strings.include?
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
