@@ -1,12 +1,5 @@
 def roll_call_dwarves(array)
-i = 0 
-dwarf_names = []
-while dwarf_names < array.length
-array.each do |name|
-  puts #{name}
-  i += 1 
-  end
-  dwarf_names
+
 end
 
 def summon_captain_planet# code an argument here
